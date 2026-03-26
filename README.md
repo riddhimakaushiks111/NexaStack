@@ -1,3 +1,7 @@
+LIVE URI
+
+https://nexastack-qxbr.onrender.com
+
 Environment Variables
 
 PORT = 3000
